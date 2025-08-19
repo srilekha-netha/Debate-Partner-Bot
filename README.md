@@ -21,5 +21,5 @@ A Streamlit-based AI-powered Debate Partner that engages users in debates by tak
 
 
 
-git clone https://github.com/your-username/debate-partner-bot.git
+git clone [https://github.com/your-username/debate-partner-bot.git](https://debate-partner-bot.streamlit.app/)
 cd debate-partner-bot
