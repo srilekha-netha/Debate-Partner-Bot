@@ -38,7 +38,7 @@ This project is designed to help users improve **critical thinking**, **argument
 
 <img width="1920" height="1012" alt="screencapture-debate-partner-bot-streamlit-app-2025-08-19-19_36_29" src="https://github.com/user-attachments/assets/3f0044a2-7761-4a25-90f5-4e86a4037f0d" />
 
-[https://github.com/your-username/debate-partner-bot.git](https://debate-partner-bot.streamlit.app/)
+[https://github.com/srilekha-netha/debate-partner-bot.git](https://debate-partner-bot.streamlit.app/)
 
 ## Tech Stack
 
