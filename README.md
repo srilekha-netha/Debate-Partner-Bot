@@ -1,24 +1,79 @@
 # 🎤 Debate Partner Bot
 
-A Streamlit-based AI-powered Debate Partner that engages users in debates by taking the **opposite stance** and generating a **neutral conclusion** at the end. Perfect for practicing debating skills, brainstorming ideas, or just having fun discussions.
+An **AI-powered Debate Partner** built using **Streamlit** that challenges users by consistently taking the **opposing viewpoint** on a given topic and concludes the discussion with a **neutral, balanced summary**.
+
+This project is designed to help users improve **critical thinking**, **argumentation skills**, and **idea exploration** through interactive debates.
 
 ---
 
 ## Features
 
-- **Interactive Debate**: Chat with an AI that always argues the opposite point of view.
-- **Customizable Debate Style**: Choose from Formal, Casual, Academic, or Friendly styles.
-- **Debate Summary**: Automatically generates a short, balanced conclusion after the debate.
-- **PDF Export**: Download the entire debate as a PDF transcript.
-- **Session Management**: Keeps track of conversation history and user details.
-- **Clear History**: Option to reset and start a new debate anytime.
+- 🗣️ **Opposite-Stance Debate Engine**  
+  The bot intelligently takes the opposing side of the user’s argument to simulate a real debate environment.
+
+- 🎭 **Multiple Debate Styles**  
+  Choose the tone of the debate:
+  - Formal  
+  - Casual  
+  - Academic  
+  - Friendly  
+
+- 🧠 **Neutral Debate Conclusion**  
+  Generates a concise, unbiased summary highlighting key points from both sides.
+
+- 📄 **PDF Export**  
+  Download the complete debate conversation as a PDF transcript.
+
+- 🗂️ **Session Management**  
+  Maintains user details and full conversation history during the session.
+
+- 🔄 **Clear & Restart Debate**  
+  Instantly reset the debate and start fresh with a new topic.
 
 ---
 
-## Demo
+## 🖥️ Demo
+
+📸 **Application Preview**
 
 <img width="1920" height="1012" alt="screencapture-debate-partner-bot-streamlit-app-2025-08-19-19_36_29" src="https://github.com/user-attachments/assets/3f0044a2-7761-4a25-90f5-4e86a4037f0d" />
 
-
-
 [https://github.com/your-username/debate-partner-bot.git](https://debate-partner-bot.streamlit.app/)
+
+## Tech Stack
+
+- **Python**
+- **Streamlit** – UI and interaction layer
+- **Large Language Model (LLM)** – Debate reasoning and response generation
+- **PDF Generation Library** – Export debate transcripts
+
+---
+
+## 📁 Project Structure
+
+Debate-Partner-Bot/
+│
+├── app.py                 # Main Streamlit application
+├── requirements.txt       # Python dependencies
+├── utils/                 # Helper functions (LLM, PDF, session handling)
+├── assets/                # Images and static files
+├── README.md              # Project documentation
+└── LICENSE                # Project license
+
+---
+
+## Installation & Setup
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/srilekha-netha/Debate-Partner-Bot.git
+   cd Debate-Partner-Bot
+2. **Install dependencies**
+   ```bash
+    pip install -r requirements.txt
+
+4. **Run the application**
+```bash
+ streamlit run app.py
+
+
