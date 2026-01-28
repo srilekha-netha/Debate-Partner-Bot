@@ -51,14 +51,7 @@ This project is designed to help users improve **critical thinking**, **argument
 
 ## 📁 Project Structure
 
-Debate-Partner-Bot/
-│
-├── app.py                 # Main Streamlit application
-├── requirements.txt       # Python dependencies
-├── utils/                 # Helper functions (LLM, PDF, session handling)
-├── assets/                # Images and static files
-├── README.md              # Project documentation
-└── LICENSE                # Project license
+<img width="743" height="249" alt="image" src="https://github.com/user-attachments/assets/e7acdbd6-7612-4e4d-81a5-e4fc18138172" />
 
 ---
 
